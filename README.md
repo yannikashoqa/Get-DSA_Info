@@ -3,7 +3,7 @@ AUTHOR		: Yanni Kashoqa
 
 TITLE		: Deep Security Agent Configuration Information GUI
 
-VERSION		: 0.8
+VERSION		: 1.0
 
 DESCRIPTION	: This Powershell script will retreive the Agent configuration information and present them in a GUI format.
 
